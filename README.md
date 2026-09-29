@@ -1,3 +1,4 @@
+
 # Hi, I'm Sara 👋
 
 **Computer Science Graduate | Software Development & Applied AI**
@@ -21,19 +22,41 @@ I build full-stack applications and AI-powered systems, with hands-on experience
 ## Featured Projects
 
 ### [NEXA — Enterprise AI Agent](https://github.com/sara7kj/NEXA)
-A bilingual enterprise AI application featuring retrieval-augmented generation (RAG), controlled tool execution, role-based access, and human approval workflows.  
+
+A bilingual enterprise AI application featuring retrieval-augmented generation (RAG), controlled tool execution, role-based access, and human approval workflows.
+
 **Tech:** Python · FastAPI · LangGraph · PostgreSQL
 
 ### [PresenSee — Smart Attendance System](https://github.com/sara7kj/presensee)
-A Flutter attendance application combining location-based checks, on-device face verification, and Firebase-backed attendance records.  
+
+A Flutter attendance application combining location-based checks, on-device face verification, and Firebase-backed attendance records.
+
 **Tech:** Flutter · Dart · Firebase · TensorFlow Lite  
 [Live demo](https://presensee-1989d.web.app/)
 
+### [PSAU Student Assistant — Bilingual RAG Chatbot](https://github.com/HaneenAldossari/psau-chatbot-retrieval)
+
+A team-built Arabic–English university assistant that retrieves relevant information from institutional documents to provide grounded answers with source citations. Combines keyword and semantic retrieval for bilingual queries.
+
+**Tech:** Python · Streamlit · FAISS · BM25 · Sentence Transformers · Groq API
+
+[View team repository](https://github.com/HaneenAldossari/psau-chatbot-retrieval)
+
+### [KSU Innovation & Entrepreneurship Club Website](https://iecksu.com/homepage)
+
+Developed the club's responsive website for King Saud University, including its organizational structure and pages for club activities and resources.
+
+**Role:** Website development lead  
+**Tech:** Flutter Web · Dart
+
+[Visit live website](https://iecksu.com/homepage)
+
 ### [Queue — Appointment Management](https://github.com/sara7kj/Queue)
-An in-progress full-stack appointment management project with a Next.js frontend and a FastAPI backend.  
+
+An in-progress full-stack appointment management project with a Next.js frontend and a FastAPI backend.
+
 **Tech:** Next.js · TypeScript · FastAPI · PostgreSQL
 
 ---
 
 *Explore my repositories to see the implementation and progress of each project.*
-
